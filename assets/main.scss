@@ -1,0 +1,7 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+img + em, em.caption { display: block; text-align: center; }
+img:not(.inline), audio { display: block; text-align: center; margin: 0 auto; }
