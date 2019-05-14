@@ -50,7 +50,7 @@ The reason the brain responds better to simple fractions is... well, that's a ma
 <audio controls><source src="/assets/music-theory/440Hz-harmonics.mp3" type="audio/mp3"></audio>
 *A 440 Hz sine wave, and its first four overtones.*{: .caption}
 
-This clip should sound a lot more consonant than the example with the golden ratio. Of special note is the second harmonic, which is a frequency ratio of 2 to 1. Our brain responds so well to the 2:1 ratio that, in some sense, we perceive them as the same pitch. (There are also physical reasons for this &mdash; the hairs in your ear that are sensitive to a certain frequency can also be vibrated by tones an octave away from that frequency.) As we will come to find out, this 2:1 consonance forms the foundation of our musical system. 
+This clip should sound a lot more consonant than the example with the golden ratio. Of special note is the second harmonic, which is a frequency ratio of 2 to 1, also called an *octave*. Our brain responds so well to the 2:1 ratio that, in some sense, we perceive them as the same pitch. (There are also physical reasons for this &mdash; the hairs in your ear that are sensitive to a certain frequency can also be vibrated by tones an octave away from that frequency.) As we will come to find out, this 2:1 consonance forms the foundation of our musical system. 
 
 By the way, it is these harmonics that give the harmonic series of mathematics its name. The elements of the harmonic series &mdash; 1, 1/2, 1/3, 1/4, and so on &mdash; match the period and wavelength multiples of musical harmonics.
 
